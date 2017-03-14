@@ -1,12 +1,9 @@
 # Comunidad Mankekes
 ## Kits Vip
-# Militar $3.000
+# Militar $3.500
+- Forest Military Helmet, Forest Military Vest, Forest Military Bottom, Forest Military Top
 - Military Nightvision 
 - Alicepack
-- Forest Military Helmet
-- Forest Military Top
-- Forest Military Bottom
-- Forest Military Vest
 - Maplestrike
 - Military Drum (3)
 - Avenger
@@ -14,4 +11,12 @@
 - Dot Sight
 - Bandage (5)
 - 500 segundos de coodown
-# Specops
+# Specops $3.000
+- Spec Ops Vest, Spec Ops Rucksack, Spec Ops Top, Spec Ops Bottom
+- Alicepack
+- Spec Ops Beret
+- Augewehr
+- Ranger Drum (3) 
+- Flashbang (2)
+- Military Nightvision
+- Dot Sight

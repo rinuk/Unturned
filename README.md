@@ -1,5 +1,5 @@
 # Comunidad Mankekes
-## Kits Vip (30 Dias)
+## Kits Vip (30 Días)
 # Militar $3.500
 - Forest Military Helmet, Forest Military Vest, Forest Military Bottom, Forest Military Top
 - Military Nightvision 

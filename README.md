@@ -13,3 +13,5 @@
 - Avenger Magazine (2)
 - Dot Sight
 - Bandage (5)
+500 segundos de coodown
+# Specops
